@@ -4,8 +4,8 @@ Olá! Eu sou sou Hernanes Junior
 - 😄 Pronouns: Junior/Hernanes
 
 
-![junior GitHub stats](https://github-readme-stats.vercel.app/api?username=juniordc137&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniordc137)](https://github.com/anuraghazra/github-readme-stats)
+![junior GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanesJunior&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanesJunior)](https://github.com/anuraghazra/github-readme-stats)
 
 ##Tecnologia que eu uso
 
