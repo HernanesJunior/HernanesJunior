@@ -20,7 +20,7 @@ Olá! Eu sou sou Hernanes Junior
 </div>
 <br><br>
 
-Fascinado pelo Mundo da tecnologia, e por aprender mais sobre esse universo de informações.
+"Entusiasta de tecnologia focado em resolver problemas reais através da inovação e do aprendizado contínuo.
 
 ## Meu Email:
 her.nanessouzajunior@gmail.com
