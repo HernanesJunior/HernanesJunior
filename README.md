@@ -70,5 +70,14 @@ Olá! Eu sou sou Hernanes Junior
 
 "Entusiasta de tecnologia focado em resolver problemas reais através da inovação e do aprendizado contínuo.
 
-## Meu Email:
-her.nanessouzajunior@gmail.com
+### 📫 Conecte-se comigo
+
+<p align="left">
+<a href="mailto:seu-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/seu-usuario" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://seu-portfolio.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1b2&height=100&section=footer" />
+</p>
