@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Hernanes%20Junior&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Hernanes%20Junior&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -24,11 +24,22 @@ As ferramentas e linguagens que utilizo para transformar ideias em soluções:
 
 ---
 
-### 📊 Estatísticas & Atividade
+---
+
+---
+
+---
+
+### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernanesjunior&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=a9adc1&icon_color=ffffff&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernanesjunior&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=a9adc1&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hernanesjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d1b2&icon_color=00d1b2&locale=pt-br" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hernanesjunior&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00d1b2&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hernanesjunior&theme=dark&background=0D1117&fire=00d1b2&ring=00d1b2&currStreakLabel=00d1b2&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ---
