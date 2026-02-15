@@ -24,11 +24,6 @@ As ferramentas e linguagens que utilizo para transformar ideias em soluções:
 
 ---
 
----
-
----
-
----
 
 ### 📊 Estatísticas e Atividade
 
