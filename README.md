@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Hernanes%20Junior&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<p align="right">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=5001&pause=1000&color=15F7B1&center=true&vCenter=true&multiline=true&width=440&lines=Ol%C3%A1!+Seja+muito+bem-vindo+ao+meu+espa%C3%A7o+)](https://git.io/typing-svg)
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hernanesjunior&label=Perfil%20Views&color=21262d&style=flat" alt="Views" />
 </p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20tecnologia%20move%20o%20mundo.&author=Hernanes&theme=dark&bg_color=0D1117&close_share=true" alt="Quote" />
 </p>
