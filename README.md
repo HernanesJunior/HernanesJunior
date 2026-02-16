@@ -23,7 +23,6 @@ As ferramentas e linguagens que utilizo para transformar ideias em soluções:
 
 ---
 
-
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
@@ -34,6 +33,11 @@ As ferramentas e linguagens que utilizo para transformar ideias em soluções:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hernanesjunior&theme=dark&background=0D1117&fire=00d1b2&ring=00d1b2&currStreakLabel=00d1b2&locale=pt_BR" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribuições (Snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hernanesjunior/Hernanesjunior/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
